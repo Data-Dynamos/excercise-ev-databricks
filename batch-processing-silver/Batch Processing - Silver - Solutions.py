@@ -21,7 +21,7 @@
 # COMMAND ----------
 
 # MAGIC %pip uninstall -y databricks_helpers exercise_ev_databricks_unit_tests
-# MAGIC %pip install git+https://github.com/data-derp/databricks_helpers#egg=databricks_helpers git+https://github.com/data-derp/exercise_ev_databricks_unit_tests#egg=exercise_ev_databricks_unit_tests
+# MAGIC %pip install git+https://github.com/Data-Dynamos/databricks_helpers git+https://github.com/Data-Dynamos/exercise_ev_databricks_unit_tests
 
 # COMMAND ----------
 
